@@ -1,20 +1,7 @@
 # Magia
 
-Magical Lisp. It can do anything, It can be what you want.
+My programming language.
 
-This project is just getting started.
+# Goal
 
-
-## TODO
-
-- [ ] a
-
-
-## Features
-
-- a
-
-
-## Goal
-
-Rebuild the world with Magia.
+Rebuild the world...
