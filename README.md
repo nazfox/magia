@@ -1,7 +1,20 @@
 # Magia
 
-My programming language.
+自作のプログラミング言語
 
-# Goal
+魔法を感じられるものにしたい、具体的なことはまだ何も決まってない
 
-Rebuild the world...
+
+## 実装の方針
+
+Magia の実装に必要な処理を Mana で実装  
+Mana で環境間の差異を吸収
+
+Mana の上で Magia を実装することで、Mana さえあればどこでも Magia が動く
+
+とりあえず Mana を SECD マシンとして実装してみる  
+SECD マシンの上に Lisp を構築してみてそこから Mana と Magia のあるべき姿を探ってみる
+
+Mana さえあればブラウザでも動くし、Linux でも動くし、マイコンでも動く  
+そんな感じ
+
